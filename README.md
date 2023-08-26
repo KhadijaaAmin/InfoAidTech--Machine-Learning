@@ -1,1 +1,1 @@
-# InfoAidTech--Machine-Learning
+# InfoAidTech--MachineLearning
